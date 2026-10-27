@@ -1,5 +1,4 @@
 -- Databricks notebook source
--- DBTITLE 1,Monthly best-selling coffee by revenue
 -- 5. Ranking coffee types by revenue within each month.
 
 WITH monthly_ranking AS (
