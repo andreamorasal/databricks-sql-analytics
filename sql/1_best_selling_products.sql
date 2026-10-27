@@ -1,3 +1,4 @@
+-- Databricks notebook source
 -- 1. Top 5 best-selling coffee types by revenue.
 
 SELECT 
