@@ -57,23 +57,6 @@ The project explores the following business questions:
 - **SQL** for aggregations, filtering, grouping, and sales analysis
 - **GitHub** for project documentation and version control
 
-## Repository structure
-
-```text
-databricks-sql-analytics/
-├── data/
-│   └── coffee_sales.csv
-├── screenshots/
-│   ├── 1_best_selling_products.png
-│   ├── 2_revenue_by_payment_method.png
-│   ├── 3_monthly_total_revenue.png
-│   ├── 4_highest_transactions_by_day.sql.png
-│   └── 5_monthly_best_selling_product.png
-└── README.md
-```
-
-*Note: The dataset filename and SQL file structure should be updated if the actual repository uses different names.*
-
 ## Key takeaways
 
 This project demonstrates how SQL can be used to transform transactional data into business insights, helping assess product performance, understand revenue patterns, and compare payment methods.
